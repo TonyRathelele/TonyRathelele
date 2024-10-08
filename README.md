@@ -1,6 +1,9 @@
 # 🌟Tony Matome Rathelele: Full Stack Developer
 
 Hello! I'm a passionate Full Stack Developer with expertise in modern web technologies. I build scalable, efficient, and user-friendly applications by combining the latest tools and frameworks. My goal is to create powerful solutions that deliver great user experiences.
+# 💫 About Me:
+## BScIT 2nd year student
+
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ThabaniDev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thabanidev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thabani-takwena) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thabanidev_) 
