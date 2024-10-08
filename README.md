@@ -1,4 +1,4 @@
-# 🌟 Full Stack Developer
+# 🌟Tony Matome Rathelele: Full Stack Developer
 
 Hello! I'm a passionate Full Stack Developer with expertise in both frontend and backend technologies. I build scalable, efficient, and user-friendly applications by combining modern tools and frameworks. My goal is to create powerful solutions that deliver great user experiences.
 
