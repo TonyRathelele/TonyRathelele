@@ -26,5 +26,5 @@ Hello! I'm a passionate Full Stack Developer with expertise in modern web techno
 
 ## 📬 Get in Touch
 
-Feel free to connect with me on [LinkedIn](#) or via email at tonyrathelele@gmail.com to collaborate or discuss new opportunities. Let's build something amazing together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tony-rathelele-516296272/) or via email at tonyrathelele@gmail.com to collaborate or discuss new opportunities. Let's build something amazing together!
 
