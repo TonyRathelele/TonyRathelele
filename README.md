@@ -2,7 +2,7 @@
 
 Hello! I'm a passionate Full Stack Developer with expertise in modern web technologies. I build scalable, efficient, and user-friendly applications by combining the latest tools and frameworks. My goal is to create powerful solutions that deliver great user experiences.
 # 💫 About Me:
-## BScIT 2nd year student
+## BScIT 2nd year dropout student
 
 
 # 🌐 Socials:
