@@ -2,7 +2,9 @@
 
 Hello! I'm a passionate Full Stack Developer with expertise in modern web technologies. I build scalable, efficient, and user-friendly applications by combining the latest tools and frameworks. My goal is to create powerful solutions that deliver great user experiences.
 # 💫 About Me:
-## Software Developer
+
+I enjoy solving real-world problems with code and thrive in collaborative, fast-paced environments. Whether I’m crafting responsive UIs or building secure REST APIs, my mission is always the same: create reliable and delightful software.
+
 
 
 # 🌐 Socials:
