@@ -20,6 +20,7 @@ I enjoy solving real-world problems with code and thrive in collaborative, fast-
 | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 
 
+#GitHub Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=TonyRathelele&theme=react-dark)
 
 # 📊 GitHub Stats:
