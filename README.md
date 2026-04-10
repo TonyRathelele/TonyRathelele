@@ -24,11 +24,10 @@ I enjoy solving real-world problems with code and thrive in collaborative, fast-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=TonyRathelele&theme=react-dark)
 
 # 📊 GitHub Stats:
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyRathelele)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TonyRathelele&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRathelele&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 GitHub Stats:
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyRathelele)
 
 
 ## 📬 Get in Touch
