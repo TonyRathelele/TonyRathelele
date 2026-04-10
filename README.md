@@ -19,12 +19,13 @@ I enjoy solving real-world problems with code and thrive in collaborative, fast-
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyRathelele)
 
 #GitHub Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=TonyRathelele&theme=react-dark)
 
+
 # 📊 GitHub Stats:
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TonyRathelele)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TonyRathelele&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRathelele&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
